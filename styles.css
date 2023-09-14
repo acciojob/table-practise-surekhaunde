@@ -2,11 +2,14 @@
  table {
 
             background-color: yellow;
+	  width: 40%;
+	 height:30%
+            margin: 20px auto;
         }
 
         table, th, td {
             border: 1px solid black;
-
+            padding: 1px;
             text-align: left;
 			font-size:30px
 		
